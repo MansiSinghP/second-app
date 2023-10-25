@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/second-app/static/css/main.2784506f.css",
+    "main.js": "/second-app/static/js/main.c723b1d9.js",
+    "static/js/787.c933e9d7.chunk.js": "/second-app/static/js/787.c933e9d7.chunk.js",
+    "static/media/logo.svg": "/second-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/second-app/index.html",
+    "main.2784506f.css.map": "/second-app/static/css/main.2784506f.css.map",
+    "main.c723b1d9.js.map": "/second-app/static/js/main.c723b1d9.js.map",
+    "787.c933e9d7.chunk.js.map": "/second-app/static/js/787.c933e9d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2784506f.css",
+    "static/js/main.c723b1d9.js"
+  ]
+}
